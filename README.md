@@ -1,3 +1,5 @@
+## The following content is provided by the original author.
+
 <a href="https://cookbook.openai.com" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/images/openai-cookbook-white.png" style="max-width: 100%; width: 400px; margin-bottom: 20px">
